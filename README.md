@@ -1,3 +1,29 @@
+# Material-UI 기본 사용법
+
+## Material 설치
+
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+
+## 구현 화면
+
+<center>
+
+### **01.데스크톱 화면**
+![](./assets/image01.png)
+
+### **02.모바일 화면**
+![](./assets/image02.png)
+
+### **03.모달 화면**
+![](./assets/image03.png)
+
+</center>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
